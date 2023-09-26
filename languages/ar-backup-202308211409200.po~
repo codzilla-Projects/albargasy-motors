@@ -1,0 +1,995 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Albargasy Motors\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-06 10:02+0000\n"
+"PO-Revision-Date: 2023-08-21 14:09+0000\n"
+"Last-Translator: \n"
+"Language-Team: Arabic\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100 >= 3 "
+"&& n%100<=10 ? 3 : n%100 >= 11 && n%100<=99 ? 4 : 5;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.3\n"
+"X-Domain: Albargasy"
+
+#: lib/albargasy_theme_init.php:93
+msgid " Description"
+msgstr "الوصف"
+
+#: albargasy_options/home_options.php:245
+msgid "About Content"
+msgstr "محتوى قسم عن الشركة"
+
+#: albargasy_options/home_options.php:103
+msgid "About Section"
+msgstr "قسم عن الشركة"
+
+#: albargasy_options/home_options.php:283
+msgid "About Small Content"
+msgstr "محتوى قسم عن الشركة الصغير"
+
+#: albargasy_options/home_options.php:265
+msgid "About Small Title"
+msgstr "عنوان قسم عن الشركة الصغير"
+
+#: albargasy_options/home_options.php:225
+msgid "About Title"
+msgstr "عنوان قسم عن الشركة"
+
+#: albargasy_options/about_options.php:75
+msgid "About Us Page Settings"
+msgstr "إعدادات صفحة عن الشركة"
+
+#. Name of the template
+msgid "About Us Template"
+msgstr "About Us TemplateFortuner"
+
+#: single-vechile.php:209
+msgid "Acceleration"
+msgstr ""
+"التسارع\n"
+
+#: lib/albargasy_meta_fields.php:474
+msgid "Acceleration: "
+msgstr ""
+
+#: albargasy_options/corporate_options.php:612
+msgid "Accordion Background Image"
+msgstr ""
+
+#: albargasy_options/corporate_options.php:638
+msgid "Accordion Background Mobile Image"
+msgstr ""
+
+#: albargasy_options/corporate_options.php:117
+msgid "Accordion Section"
+msgstr "قسم الأكورديون"
+
+#: lib/albargasy_meta_fields.php:294 lib/albargasy_meta_fields.php:346
+#: lib/albargasy_meta_fields.php:1608
+msgid "Add File"
+msgstr ""
+
+#: lib/albargasy_theme_init.php:77
+msgid "Add New"
+msgstr "إضافة جديد"
+
+#: albargasy_options/financial_options.php:217
+msgid "After Sales Content"
+msgstr "محتوى قسم ما بعد البيع"
+
+#: albargasy_options/financial_options.php:226
+msgid "After Sales Image"
+msgstr "صورة قسم ما بعد البيع"
+
+#: albargasy_options/financial_options.php:54
+msgid "After Sales Section"
+msgstr "قسم ما بعد البيع"
+
+#: albargasy_options/financial_options.php:207
+msgid "After Sales Small Title"
+msgstr "عنوان قسم ما بعد البيع الصغير"
+
+#: albargasy_options/financial_options.php:198
+msgid "After Sales Title"
+msgstr "عنوان قسم ما بعد البيع"
+
+#. Name of the theme
+msgid "Albargasy Motors"
+msgstr "البرجسى موتورز"
+
+#. Description of the theme
+msgid "Albargasy Motors."
+msgstr "البرجسي موتورز."
+
+#: footer.php:178
+msgid "ALL RIGHTS RESERVED."
+msgstr ""
+
+#: single-vechile.php:317
+msgid "Assembly Country"
+msgstr ""
+"بلد التجميع\n"
+
+#: lib/albargasy_meta_fields.php:606
+msgid "Assembly Country: "
+msgstr ""
+
+#: albargasy_options/home_options.php:115
+msgid "Awards Section"
+msgstr "قسم الجوائز"
+
+#: albargasy_options/home_options.php:849
+msgid "Awards Title"
+msgstr "عنوان قسم الجوائز"
+
+#: 404.php:53
+msgid "Back to Home"
+msgstr ""
+
+#: albargasy_options/financial_options.php:138
+msgid "Banks Image"
+msgstr "صورة قسم البنوك"
+
+#: albargasy_options/financial_options.php:52
+msgid "Banks Section"
+msgstr "قسم البنوك"
+
+#: albargasy_options/financial_options.php:128
+msgid "Banks Title"
+msgstr "عنوان قسم البنوك"
+
+#: albargasy_options/home_options.php:437
+msgid "Brand Category"
+msgstr "تصنيف الماركه"
+
+#: albargasy_options/home_options.php:421
+msgid "Brand Category Title"
+msgstr "عنوان تصنيف الماركة"
+
+#: template-parts/breadcrumb.php:10
+msgid "Brands"
+msgstr " الماركات"
+
+#: albargasy_options/home_options.php:107
+msgid "Brands Section"
+msgstr "قسم الماركات"
+
+#. Name of the template
+msgid "Brands Template"
+msgstr ""
+
+#: single-vechile.php:88
+msgid "Brochure"
+msgstr "كتالوج"
+
+#: single-career.php:104
+msgid "Career level:"
+msgstr "المستوى الوظيفي :"
+
+#: lib/albargasy_meta_fields.php:2013
+msgid "Career level: "
+msgstr "المستوى الوظيفي :"
+
+#: albargasy_options/careers_options.php:91
+msgid "Careers Background Image"
+msgstr "صورة خلفية الوظائف"
+
+#: albargasy_options/careers_options.php:117
+msgid "Careers Content"
+msgstr "محتوى الوظائف"
+
+#: albargasy_options/careers_options.php:71
+msgid "Careers Page Settings"
+msgstr ""
+
+#. Name of the template
+msgid "Careers Template"
+msgstr ""
+
+#: albargasy_options/about_options.php:149
+msgid "Chairman Image"
+msgstr "صورة رئيس مجلس الادارة"
+
+#: albargasy_options/about_options.php:197
+msgid "Chairman Name"
+msgstr "اسم رئيس مجلس الادارة"
+
+#: albargasy_options/about_options.php:217
+msgid "Chairman Signature"
+msgstr "توقيع رئيس مجلس الادارة"
+
+#: albargasy_options/about_options.php:177
+msgid "Chairman Speech"
+msgstr "كلمة رئيس مجلس الإدارة"
+
+#: albargasy_options/about_options.php:129
+msgid "Chairman Title"
+msgstr "عنوان قسم رئيس مجلس الادارة"
+
+#: albargasy_options/about_options.php:87
+msgid "Chairman's Speech Section"
+msgstr "قسم كلمة رئيس مجلس الادارة"
+
+#: lib/albargasy_meta_fields.php:288 lib/albargasy_meta_fields.php:342
+#: lib/albargasy_meta_fields.php:1606
+msgid "Change File"
+msgstr ""
+
+#: albargasy_options/careers_options.php:99
+#: albargasy_options/about_options.php:157
+#: albargasy_options/corporate_options.php:201
+#: albargasy_options/corporate_options.php:227
+#: albargasy_options/corporate_options.php:315
+#: albargasy_options/corporate_options.php:341
+#: albargasy_options/corporate_options.php:428
+#: albargasy_options/corporate_options.php:454
+#: albargasy_options/corporate_options.php:542
+#: albargasy_options/corporate_options.php:568
+#: albargasy_options/corporate_options.php:620
+#: albargasy_options/corporate_options.php:646
+#: albargasy_options/corporate_options.php:704
+#: albargasy_options/corporate_options.php:784
+#: albargasy_options/corporate_options.php:854
+#: albargasy_options/corporate_options.php:924
+#: albargasy_options/home_options.php:177
+#: albargasy_options/home_options.php:381
+#: albargasy_options/success_story_options.php:51
+#: albargasy_options/success_story_options.php:76
+#: albargasy_options/success_story_options.php:93
+#: albargasy_options/financial_options.php:68
+#: albargasy_options/financial_options.php:142
+#: albargasy_options/financial_options.php:177
+#: albargasy_options/financial_options.php:230
+msgid "Choose"
+msgstr "اختر"
+
+#: albargasy_options/about_options.php:279
+#: albargasy_options/about_options.php:285
+msgid "Choose About Slider"
+msgstr "اختر الصور المتحركه ل عن الشركة"
+
+#: albargasy_options/careers_options.php:133
+#: albargasy_options/careers_options.php:139
+msgid "Choose Careers"
+msgstr "اختر الوظائف"
+
+#: albargasy_options/home_options.php:447
+msgid "Choose Category"
+msgstr "اختر التصنيف"
+
+#: albargasy_options/about_options.php:353
+#: albargasy_options/about_options.php:359
+msgid "Choose Directors"
+msgstr "اختر المديرين"
+
+#: albargasy_options/multibrand_showrooms_options.php:94
+#: albargasy_options/multibrand_showrooms_options.php:100
+#: albargasy_options/home_options.php:593
+#: albargasy_options/home_options.php:599
+msgid "Choose Services"
+msgstr "اختر الخدمات"
+
+#: albargasy_options/home_options.php:507
+#: albargasy_options/home_options.php:513
+msgid "Choose Vechiles"
+msgstr "اختر المركبات"
+
+#. Author of the theme
+msgid "Codezilla"
+msgstr "كودزيلا"
+
+#: single-vechile.php:531
+msgid "Comfort"
+msgstr ""
+"راحة\n"
+"\n"
+
+#: albargasy_options/corporate_options.php:115
+msgid "Core Values Section"
+msgstr "قسم القيم"
+
+#. Name of the template
+msgid "Corporate Template"
+msgstr ""
+
+#: albargasy_options/corporate_options.php:95
+msgid "Corprate Page Settings"
+msgstr "إعدادات صفحة الشركة"
+
+#: albargasy_options/home_options.php:113
+msgid "Counter Section"
+msgstr "قسم العداد الرقمى"
+
+#: single-career.php:49
+msgid "Date posted:"
+msgstr "تاريخ الإعلان :"
+
+#: lib/albargasy_meta_fields.php:1943
+msgid "Date Posted: "
+msgstr "تاريخ الإعلان :"
+
+#: single-vechile.php:121
+msgid "DESCRIPTION"
+msgstr "الوصف"
+
+#: lib/albargasy_meta_fields.php:2063
+msgid "Director Position: "
+msgstr ""
+
+#: albargasy_options/about_options.php:91
+msgid "Directors"
+msgstr "المديرين"
+
+#: albargasy_options/about_options.php:337
+msgid "Directors Title"
+msgstr ""
+
+#: footer.php:203
+msgid "E-mail"
+msgstr ""
+
+#: single-vechile.php:155
+msgid "Engine capacity"
+msgstr ""
+"سعة المحرك\n"
+
+#: lib/albargasy_meta_fields.php:408
+msgid "Engine capacity: "
+msgstr ""
+
+#: albargasy_options/financial_options.php:173
+msgid "Entities Image"
+msgstr "صورة الكيانات"
+
+#: albargasy_options/financial_options.php:53
+msgid "Entities Section"
+msgstr "قسم الكيانات"
+
+#: albargasy_options/financial_options.php:163
+msgid "Entities Title"
+msgstr "عنوان قسم الكيانات"
+
+#: single-vechile.php:517
+msgid "EQUIPMENT"
+msgstr "التجهيزات"
+
+#: albargasy_options/home_options.php:307
+msgid "Experience Number"
+msgstr "سنوات الخبرة"
+
+#: albargasy_options/home_options.php:325
+msgid "Experience Text"
+msgstr "نص الخبره"
+
+#: single-career.php:82
+msgid "Expiration Date:"
+msgstr ""
+
+#: lib/albargasy_meta_fields.php:1985
+msgid "Expiration Date: "
+msgstr ""
+
+#: footer.php:193
+msgid "Facebook"
+msgstr ""
+
+#: lib/albargasy_theme_init.php:85
+msgid "Featured Image"
+msgstr "الصورة المميزة"
+
+#: single-service.php:115
+msgid "Feel Free to Contact Us"
+msgstr "لا تتردد في الاتصال بنا"
+
+#: albargasy_options/financial_options.php:41
+msgid "Financial Page Settings"
+msgstr "إعدادات الصفحة المالية"
+
+#. Name of the template
+msgid "Financial Template"
+msgstr ""
+
+#: albargasy_options/corporate_options.php:696
+msgid "First Accordion Background Image"
+msgstr ""
+
+#: albargasy_options/corporate_options.php:678
+msgid "First Accordion Content"
+msgstr "محتوى الأكورديون الأول"
+
+#: albargasy_options/corporate_options.php:662
+msgid "First Accordion Title"
+msgstr "عنوان الاكورديون الاول"
+
+#: albargasy_options/corporate_options.php:818
+msgid "First Slider Content"
+msgstr "محتوى الصور المتحركة الاول "
+
+#: albargasy_options/corporate_options.php:776
+msgid "First Slider Image"
+msgstr "صورة الصور المتحركه الاولى"
+
+#: albargasy_options/corporate_options.php:800
+msgid "First Slider Title"
+msgstr "عنوان الصور المتحركه الاول "
+
+#: single-vechile.php:281
+msgid "Fuel"
+msgstr "الوقود"
+
+#: single-vechile.php:479
+msgid "Fuel tank capacity"
+msgstr ""
+"سعة خزان الوقود\n"
+
+#: lib/albargasy_meta_fields.php:804
+msgid "Fuel tank capacity: "
+msgstr ""
+
+#: lib/albargasy_meta_fields.php:562
+msgid "Fuel: "
+msgstr ""
+
+#: single-vechile.php:371
+msgid "Height (mm)"
+msgstr ""
+"الارتفاع (مم)\n"
+
+#: lib/albargasy_meta_fields.php:672
+msgid "Height (mm): "
+msgstr ""
+
+#: albargasy_options/about_options.php:117
+#: albargasy_options/about_options.php:249
+#: albargasy_options/about_options.php:325
+#: albargasy_options/corporate_options.php:143
+#: albargasy_options/corporate_options.php:257
+#: albargasy_options/corporate_options.php:370
+#: albargasy_options/corporate_options.php:484
+#: albargasy_options/corporate_options.php:600
+#: albargasy_options/home_options.php:143
+#: albargasy_options/home_options.php:213
+#: albargasy_options/home_options.php:361
+#: albargasy_options/home_options.php:411
+#: albargasy_options/home_options.php:491
+#: albargasy_options/home_options.php:557
+#: albargasy_options/home_options.php:643
+#: albargasy_options/home_options.php:835
+#: albargasy_options/financial_options.php:82
+#: albargasy_options/financial_options.php:122
+#: albargasy_options/financial_options.php:157
+#: albargasy_options/financial_options.php:192
+#, fuzzy
+#| msgid "Hidden Section"
+msgid "Hide Section"
+msgstr "إخفاء السكشن"
+
+#: category.php:11 template-parts/breadcrumb.php:6
+msgid "Home"
+msgstr "الرئيسية"
+
+#. page_title
+#: lib/albargasy_theme_init.php:142 lib/albargasy_theme_init.php:144
+msgid "Home Options"
+msgstr "إعدادات الرئيسية"
+
+#: lib/albargasy_taxonomy_terms.php:58 lib/albargasy_taxonomy_terms.php:108
+msgid "Home Page Image"
+msgstr ""
+
+#: albargasy_options/home_options.php:87
+msgid "Home Page Settings"
+msgstr "إعدادات الصفحة الرئيسية"
+
+#: single-vechile.php:173
+msgid "Horse Power"
+msgstr ""
+"القوة الحصانية\n"
+
+#: lib/albargasy_meta_fields.php:430
+msgid "Horse Power: "
+msgstr ""
+
+#: albargasy_options/about_options.php:261
+msgid "How it Start Title"
+msgstr "عنوان قسم كيف تبدأ"
+
+#: albargasy_options/about_options.php:89
+msgid "How It Started"
+msgstr "قسم كيف تبدا"
+
+#: single-career.php:37
+msgid "if you interested kindly Send your CV to:"
+msgstr ""
+
+#: single-career.php:45
+msgid "Job Overview"
+msgstr "نظرة عامة على الوظيفة"
+
+#: single-career.php:37
+msgid "jobs@albargasy.com"
+msgstr ""
+
+#: archive-blog.php:39
+msgid "Latest News"
+msgstr "اخر الاخبار"
+
+#: single-vechile.php:335 single-vechile.php:353
+msgid "Length (mm)"
+msgstr ""
+"الطول (مم)\n"
+
+#: lib/albargasy_meta_fields.php:628
+msgid "Length (mm): "
+msgstr ""
+
+#: single-vechile.php:299
+msgid "liter/100KM"
+msgstr ""
+"متوسط استهلاك الوقود\n"
+
+#: lib/albargasy_meta_fields.php:584
+msgid "Liter/100KM: "
+msgstr ""
+
+#: single-career.php:60
+msgid "Location:"
+msgstr "موقع:"
+
+#: lib/albargasy_meta_fields.php:1957
+msgid "Location: "
+msgstr "موقع:"
+
+#: single-vechile.php:191
+msgid "Maximum Speed"
+msgstr ""
+"السرعة القصوى\n"
+
+#: lib/albargasy_meta_fields.php:452
+msgid "Maximum Speed: "
+msgstr ""
+
+#: albargasy_options/corporate_options.php:420
+msgid "Mission Background Image"
+msgstr "صورة خلفية مهمتنا"
+
+#: albargasy_options/corporate_options.php:446
+msgid "Mission Background Mobile Image"
+msgstr ""
+
+#: albargasy_options/corporate_options.php:402
+msgid "Mission Content"
+msgstr "محتوى قسم مهمتنا"
+
+#: albargasy_options/corporate_options.php:113
+msgid "Mission Section"
+msgstr "قسم مهمتنا"
+
+#: albargasy_options/corporate_options.php:382
+msgid "Mission Title"
+msgstr "عنوان قسم مهمتنا"
+
+#: albargasy_options/multibrand_showrooms_options.php:59
+msgid "Multibrand Showrooms Page Settings"
+msgstr ""
+
+#. Name of the template
+msgid "Multibrand Showrooms Template"
+msgstr ""
+
+#: albargasy_options/multibrand_showrooms_options.php:77
+msgid "Multibrand Showrooms Title"
+msgstr ""
+
+#. Name of the template
+msgid "News Template"
+msgstr ""
+
+#: lib/albargasy_theme_init.php:83
+msgid "Not found"
+msgstr "لا يوجد"
+
+#: lib/albargasy_theme_init.php:84
+msgid "Not found in Trash"
+msgstr "غير موجود في المهملات"
+
+#: single-vechile.php:461
+msgid "Number of cylinder"
+msgstr ""
+"عدد الاسطوانة\n"
+
+#: lib/albargasy_meta_fields.php:782
+msgid "Number of Cylinder: "
+msgstr ""
+
+#: single-career.php:71
+msgid "Offered Salary:"
+msgstr "الراتب المعروض:"
+
+#: lib/albargasy_meta_fields.php:1971
+msgid "Offered Salary: "
+msgstr "الراتب المعروض:"
+
+#: single-service.php:159
+msgid "Opening Hours"
+msgstr "ساعات العمل"
+
+#: single-vechile.php:611
+msgid "Other"
+msgstr ""
+"أخرى\n"
+
+#: albargasy_options/corporate_options.php:193
+msgid "Our Philosophy Background Image"
+msgstr "صورة خلفيه قسم فلسفتنا"
+
+#: albargasy_options/corporate_options.php:175
+msgid "Our Philosophy Content"
+msgstr "محتوى قسم فلسفتنا"
+
+#: albargasy_options/corporate_options.php:219
+msgid "Our Philosophy Mobile Background Image"
+msgstr ""
+
+#: albargasy_options/corporate_options.php:155
+msgid "Our Philosophy Title"
+msgstr "عنوان قسم فلسفتنا"
+
+#: albargasy_options/financial_options.php:49
+#: albargasy_options/financial_options.php:64
+msgid "Page Background Image"
+msgstr "صورة خلفيه الصفحة"
+
+#: template-parts/breadcrumb.php:37
+msgid "Page Not Found"
+msgstr ""
+
+#: 404.php:49
+msgid "Page not found."
+msgstr ""
+
+#: albargasy_options/corporate_options.php:109
+msgid "philosophy Section"
+msgstr "قسم فلسفتنا"
+
+#: lib/albargasy_taxonomy_terms.php:15
+msgid "Popular brand"
+msgstr ""
+
+#: single-career.php:93
+msgid "Qualification:"
+msgstr "مؤهل :"
+
+#: lib/albargasy_meta_fields.php:1999
+msgid "Qualification: "
+msgstr "مؤهل :"
+
+#: archive-blog.php:83
+msgid "Read More"
+msgstr ""
+
+#: page-careers.php:77
+msgid "Read More »"
+msgstr "قراءة المزيد »"
+
+#: single-vechile.php:104
+msgid "Reels"
+msgstr ""
+
+#: lib/albargasy_theme_init.php:87
+msgid "Remove featured image"
+msgstr "إزاله الصورة المميزة"
+
+#: single-career.php:25
+msgid "Requirements:"
+msgstr "متطلبات:"
+
+#: single-career.php:20
+msgid "Responsibilities:"
+msgstr "المسؤوليات:"
+
+#: single-vechile.php:591
+msgid "Safety"
+msgstr "الامان"
+
+#: albargasy_options/financial_options.php:107
+msgid "Sales Content"
+msgstr "محتوى قسم المبيعات"
+
+#: albargasy_options/financial_options.php:51
+msgid "Sales Section"
+msgstr "قسم المبيعات"
+
+#: albargasy_options/financial_options.php:97
+msgid "Sales Small Title"
+msgstr "عنوان قسم المبيعات المصغر"
+
+#: albargasy_options/financial_options.php:88
+msgid "Sales Title"
+msgstr "عنوان قسم المبيعات"
+
+#: albargasy_options/theme_options.php:472
+#: albargasy_options/multibrand_showrooms_options.php:126
+#: albargasy_options/careers_options.php:167
+#: albargasy_options/about_options.php:389
+#: albargasy_options/corporate_options.php:984
+#: albargasy_options/home_options.php:887
+#: albargasy_options/success_story_options.php:115
+#: albargasy_options/financial_options.php:240
+msgid "Save Settings"
+msgstr "حفظ الاعدادات"
+
+#: lib/albargasy_taxonomy_terms.php:14
+msgid "Search brand"
+msgstr ""
+
+#: single-vechile.php:425
+msgid "Seats"
+msgstr ""
+"عدد المقاعد\n"
+
+#: lib/albargasy_meta_fields.php:738
+msgid "Seats: "
+msgstr ""
+
+#: albargasy_options/corporate_options.php:736
+msgid "Second Accordion Content"
+msgstr "محتوى الاكوردرون الثانى"
+
+#: albargasy_options/corporate_options.php:720
+msgid "Second Accordion Title"
+msgstr "عنوان الاكورديون الثانى"
+
+#: albargasy_options/corporate_options.php:888
+msgid "Second Slider Content"
+msgstr "محتوى الصور المتحركه الثانى"
+
+#: albargasy_options/corporate_options.php:846
+msgid "Second Slider Image"
+msgstr "صورة الصور المتحركة الثانية"
+
+#: albargasy_options/corporate_options.php:870
+msgid "Second Slider Title"
+msgstr "عنوان الصور المتحركه الثانى"
+
+#: albargasy_options/home_options.php:111
+msgid "Services Section"
+msgstr "قسم الخدمات"
+
+#: albargasy_options/home_options.php:569
+msgid "Services Title"
+msgstr "عنوان قسم الخدمات"
+
+#: lib/albargasy_theme_init.php:86
+msgid "Set featured image"
+msgstr "تعيين الصورة المميزة"
+
+#: single-service.php:57
+msgid "Show 360"
+msgstr ""
+
+#: lib/albargasy_meta_fields.php:55
+msgid "Slider Button Text: "
+msgstr ""
+
+#: lib/albargasy_meta_fields.php:79
+msgid "Slider Button URL: "
+msgstr ""
+
+#: albargasy_options/home_options.php:101
+msgid "SLider Section"
+msgstr ""
+
+#: albargasy_options/home_options.php:169
+msgid "Sliders Background Image"
+msgstr ""
+
+#: albargasy_options/home_options.php:153
+msgid "Slides Number"
+msgstr "عدد الصور المتحركه التى تريد اظهارها "
+
+#: 404.php:51
+msgid "Sorry, the page you are looking for cannot be reached."
+msgstr ""
+
+#: single-vechile.php:551
+msgid "Sound System"
+msgstr ""
+"نظام الصوت\n"
+
+#: single-vechile.php:227
+msgid "Speeds"
+msgstr "السرعات"
+
+#: lib/albargasy_meta_fields.php:496
+msgid "Speeds: "
+msgstr ""
+
+#: single-career.php:38
+msgid "Subject:"
+msgstr ""
+
+#: albargasy_options/success_story_options.php:47
+msgid "Success Story Background Image"
+msgstr ""
+
+#: albargasy_options/success_story_options.php:107
+msgid "Success Story Content"
+msgstr ""
+
+#: albargasy_options/success_story_options.php:72
+msgid "Success Story First Image"
+msgstr ""
+
+#: albargasy_options/success_story_options.php:37
+msgid "Success Story Page Settings"
+msgstr ""
+
+#: albargasy_options/success_story_options.php:89
+msgid "Success Story Second Image"
+msgstr ""
+
+#. Name of the template
+msgid "Success Story Template"
+msgstr ""
+
+#: albargasy_options/success_story_options.php:60
+msgid "Success Story Title"
+msgstr ""
+
+#: albargasy_options/home_options.php:373
+msgid "Team Image"
+msgstr "صورة فريق العمل"
+
+#: albargasy_options/home_options.php:105
+msgid "Team Section"
+msgstr "قسم فريق العمل"
+
+#: albargasy_options/home_options.php:867
+msgid "The number of rewards that will appear"
+msgstr "عدد المكافآت التي ستظهر"
+
+#: albargasy_options/corporate_options.php:752
+msgid "Third accordion Title"
+msgstr "عنوان الاكورديون الثالث"
+
+#: albargasy_options/corporate_options.php:958
+msgid "Third Slider Content"
+msgstr "محتوى الصور المتحركة الثالث"
+
+#: albargasy_options/corporate_options.php:916
+msgid "Third Slider Image"
+msgstr "صورة الصور المتحركة الثالثة"
+
+#: albargasy_options/corporate_options.php:940
+msgid "Third Slider Title"
+msgstr "عنوان الصور المتحركة الثالثة"
+
+#: single-vechile.php:497
+msgid "Torque of newton"
+msgstr ""
+"عزم النيوتن\n"
+
+#: lib/albargasy_meta_fields.php:826
+msgid "Torque of newton: "
+msgstr ""
+
+#: single-vechile.php:443
+msgid "Traction Type"
+msgstr ""
+"نوع الجر\n"
+
+#: lib/albargasy_meta_fields.php:760
+msgid "Traction Type: "
+msgstr ""
+
+#: single-vechile.php:245
+msgid "Transmission Type"
+msgstr ""
+"ناقل الحركة\n"
+
+#: lib/albargasy_meta_fields.php:518
+msgid "Transmission Type: "
+msgstr ""
+
+#: single-vechile.php:407
+msgid "Trunk Size"
+msgstr ""
+"مساحة صندوق الامتعة\n"
+
+#: lib/albargasy_meta_fields.php:716
+msgid "Trunk Size: "
+msgstr ""
+
+#: lib/albargasy_theme_init.php:88
+msgid "Use as featured image"
+msgstr "كما تستخدم الصورة المميزة"
+
+#: albargasy_options/corporate_options.php:534
+msgid "Values Background Image"
+msgstr "صورة خلفيه قسم قيمنا"
+
+#: albargasy_options/corporate_options.php:560
+msgid "Values Background Mobile Image"
+msgstr ""
+
+#: albargasy_options/corporate_options.php:516
+msgid "Values Content"
+msgstr "محتوى قسم قيمنا"
+
+#: albargasy_options/corporate_options.php:496
+msgid "Values Title"
+msgstr "عنوان قسم قيمنا"
+
+#: albargasy_options/home_options.php:109
+msgid "Vechile Section"
+msgstr "قسم المركبات"
+
+#: index.php:329 taxonomy-brands.php:39
+msgid "View Details"
+msgstr "عرض التفاصيل"
+
+#: albargasy_options/corporate_options.php:307
+msgid "Vision Background Image"
+msgstr "صورة خلفية قسم رؤيتنا"
+
+#: albargasy_options/corporate_options.php:333
+msgid "Vision Background Mobile Image"
+msgstr ""
+
+#: albargasy_options/corporate_options.php:289
+msgid "Vision Content"
+msgstr "محتوى قسم رؤيتنا"
+
+#: albargasy_options/corporate_options.php:111
+msgid "Vision Section"
+msgstr "قسم رؤيتنا"
+
+#: albargasy_options/corporate_options.php:269
+msgid "Vision Title"
+msgstr "عنوان قسم رؤيتنا"
+
+#: single-vechile.php:137
+msgid "Warranty"
+msgstr ""
+"ضمان\n"
+
+#: lib/albargasy_meta_fields.php:386
+msgid "Warranty: "
+msgstr ""
+
+#: single-career.php:31
+msgid "We Offer:"
+msgstr "نحن نقدم:"
+
+#: single-vechile.php:389
+msgid "Wheel Base"
+msgstr ""
+"قاعدة العجلات\n"
+
+#: lib/albargasy_meta_fields.php:694
+msgid "Wheel Base: "
+msgstr ""
+
+#: lib/albargasy_meta_fields.php:650
+msgid "Width (mm): "
+msgstr ""
+"العرض (مم)\n"
+
+#: single-vechile.php:571
+msgid "Windows"
+msgstr ""
+"شبابيك\n"
+
+#: single-vechile.php:263
+msgid "Year"
+msgstr ""
+
+#: lib/albargasy_meta_fields.php:540
+msgid "Year: "
+msgstr ""

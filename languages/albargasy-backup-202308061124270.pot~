@@ -1,0 +1,480 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Albargasy Motors\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-06 11:24+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.2.2\n"
+"X-Domain: Albargasy"
+
+#: lib/albargasy_theme_init.php:92
+msgid " Description"
+msgstr ""
+
+#: albargasy_options/home_options.php:110
+msgid "About Content"
+msgstr ""
+
+#: albargasy_options/home_options.php:52
+msgid "About Section"
+msgstr ""
+
+#: albargasy_options/home_options.php:129
+msgid "About Small Content"
+msgstr ""
+
+#: albargasy_options/home_options.php:120
+msgid "About Small Title"
+msgstr ""
+
+#: albargasy_options/home_options.php:100
+msgid "About Title"
+msgstr ""
+
+#: albargasy_options/about_options.php:38
+msgid "About Us Page Settings"
+msgstr ""
+
+#: albargasy_options/corporate_options.php:52
+msgid "Accordion Section"
+msgstr ""
+
+#: lib/albargasy_theme_init.php:76
+msgid "Add New"
+msgstr ""
+
+#: albargasy_options/financial_options.php:217
+msgid "After Sales Content"
+msgstr ""
+
+#: albargasy_options/financial_options.php:226
+msgid "After Sales Image"
+msgstr ""
+
+#: albargasy_options/financial_options.php:54
+msgid "After Sales Section"
+msgstr ""
+
+#: albargasy_options/financial_options.php:207
+msgid "After Sales Small Title"
+msgstr ""
+
+#: albargasy_options/financial_options.php:198
+msgid "After Sales Title"
+msgstr ""
+
+#. Name of the theme
+msgid "Albargasy Motors"
+msgstr ""
+
+#. Description of the theme
+msgid "Albargasy Motors."
+msgstr ""
+
+#: albargasy_options/home_options.php:58
+msgid "Awards Section"
+msgstr ""
+
+#: albargasy_options/home_options.php:408
+msgid "Awards Title"
+msgstr ""
+
+#: albargasy_options/financial_options.php:138
+msgid "Banks Image"
+msgstr ""
+
+#: albargasy_options/financial_options.php:52
+msgid "Banks Section"
+msgstr ""
+
+#: albargasy_options/financial_options.php:128
+msgid "Banks Title"
+msgstr ""
+
+#: albargasy_options/home_options.php:206
+msgid "Brand Category"
+msgstr ""
+
+#: albargasy_options/home_options.php:198
+msgid "Brand Category Title"
+msgstr ""
+
+#: albargasy_options/home_options.php:54
+msgid "Brands Section"
+msgstr ""
+
+#: albargasy_options/careers_options.php:51
+msgid "Careers Background Image"
+msgstr ""
+
+#: albargasy_options/careers_options.php:64
+msgid "Careers Content"
+msgstr ""
+
+#: albargasy_options/about_options.php:75
+msgid "Chairman Image"
+msgstr ""
+
+#: albargasy_options/about_options.php:99
+msgid "Chairman Name"
+msgstr ""
+
+#: albargasy_options/about_options.php:109
+msgid "Chairman Signature"
+msgstr ""
+
+#: albargasy_options/about_options.php:89
+msgid "Chairman Speech"
+msgstr ""
+
+#: albargasy_options/about_options.php:65
+msgid "Chairman Title"
+msgstr ""
+
+#: albargasy_options/about_options.php:44
+msgid "Chairman's Speech Section"
+msgstr ""
+
+#: albargasy_options/about_options.php:79
+#: albargasy_options/careers_options.php:55
+#: albargasy_options/corporate_options.php:94
+#: albargasy_options/corporate_options.php:138
+#: albargasy_options/corporate_options.php:182
+#: albargasy_options/corporate_options.php:226
+#: albargasy_options/corporate_options.php:293
+#: albargasy_options/corporate_options.php:328
+#: albargasy_options/corporate_options.php:363
+#: albargasy_options/financial_options.php:68
+#: albargasy_options/financial_options.php:142
+#: albargasy_options/financial_options.php:177
+#: albargasy_options/financial_options.php:230
+#: albargasy_options/home_options.php:178
+msgid "Choose"
+msgstr ""
+
+#: albargasy_options/about_options.php:140
+#: albargasy_options/about_options.php:143
+msgid "Choose About Slider"
+msgstr ""
+
+#: albargasy_options/careers_options.php:72
+#: albargasy_options/careers_options.php:75
+msgid "Choose Careers"
+msgstr ""
+
+#: albargasy_options/home_options.php:211
+msgid "Choose Category"
+msgstr ""
+
+#: albargasy_options/about_options.php:169
+#: albargasy_options/about_options.php:172
+msgid "Choose Directors"
+msgstr ""
+
+#: albargasy_options/home_options.php:281
+#: albargasy_options/home_options.php:284
+msgid "Choose Services"
+msgstr ""
+
+#: albargasy_options/home_options.php:239
+#: albargasy_options/home_options.php:242
+msgid "Choose Vechiles"
+msgstr ""
+
+#. Author of the theme
+msgid "Codezilla"
+msgstr ""
+
+#: albargasy_options/corporate_options.php:51
+msgid "Core Values Section"
+msgstr ""
+
+#: albargasy_options/corporate_options.php:41
+msgid "Corprate Page Settings"
+msgstr ""
+
+#: albargasy_options/home_options.php:57
+msgid "Counter Section"
+msgstr ""
+
+#: albargasy_options/about_options.php:46
+msgid "Directors"
+msgstr ""
+
+#: albargasy_options/financial_options.php:173
+msgid "Entities Image"
+msgstr ""
+
+#: albargasy_options/financial_options.php:53
+msgid "Entities Section"
+msgstr ""
+
+#: albargasy_options/financial_options.php:163
+msgid "Entities Title"
+msgstr ""
+
+#: albargasy_options/home_options.php:141
+msgid "Experience Number"
+msgstr ""
+
+#: albargasy_options/home_options.php:150
+msgid "Experience Text"
+msgstr ""
+
+#: lib/albargasy_theme_init.php:84
+msgid "Featured Image"
+msgstr ""
+
+#: albargasy_options/careers_options.php:41
+#: albargasy_options/financial_options.php:41
+msgid "Financial Page Settings"
+msgstr ""
+
+#: albargasy_options/corporate_options.php:254
+msgid "First Accordion Content"
+msgstr ""
+
+#: albargasy_options/corporate_options.php:246
+msgid "First Accordion Title"
+msgstr ""
+
+#: albargasy_options/corporate_options.php:310
+msgid "First Slider Content"
+msgstr ""
+
+#: albargasy_options/corporate_options.php:289
+msgid "First Slider Image"
+msgstr ""
+
+#: albargasy_options/corporate_options.php:301
+msgid "First Slider Title"
+msgstr ""
+
+#: albargasy_options/about_options.php:59
+#: albargasy_options/about_options.php:125
+#: albargasy_options/about_options.php:164
+#: albargasy_options/corporate_options.php:65
+#: albargasy_options/corporate_options.php:109
+#: albargasy_options/corporate_options.php:153
+#: albargasy_options/corporate_options.php:197
+#: albargasy_options/corporate_options.php:241
+#: albargasy_options/financial_options.php:82
+#: albargasy_options/financial_options.php:122
+#: albargasy_options/financial_options.php:157
+#: albargasy_options/financial_options.php:192
+#: albargasy_options/home_options.php:72 albargasy_options/home_options.php:94
+#: albargasy_options/home_options.php:168
+#: albargasy_options/home_options.php:193
+#: albargasy_options/home_options.php:233
+#: albargasy_options/home_options.php:265
+#: albargasy_options/home_options.php:305
+#: albargasy_options/home_options.php:401
+msgid "Hidden Section"
+msgstr ""
+
+#: albargasy_options/home_options.php:44
+msgid "Home Page Settings"
+msgstr ""
+
+#: albargasy_options/about_options.php:131
+msgid "How it Start Title"
+msgstr ""
+
+#: albargasy_options/about_options.php:45
+msgid "How It Started"
+msgstr ""
+
+#: albargasy_options/corporate_options.php:178
+msgid "Mission Background Image"
+msgstr ""
+
+#: albargasy_options/corporate_options.php:169
+msgid "Mission Content"
+msgstr ""
+
+#: albargasy_options/corporate_options.php:50
+msgid "Mission Section"
+msgstr ""
+
+#: albargasy_options/corporate_options.php:159
+msgid "Mission Title"
+msgstr ""
+
+#: lib/albargasy_theme_init.php:82
+msgid "Not found"
+msgstr ""
+
+#: lib/albargasy_theme_init.php:83
+msgid "Not found in Trash"
+msgstr ""
+
+#: albargasy_options/corporate_options.php:90
+msgid "Our Philosophy Background Image"
+msgstr ""
+
+#: albargasy_options/corporate_options.php:81
+msgid "Our Philosophy Content"
+msgstr ""
+
+#: albargasy_options/corporate_options.php:71
+msgid "Our Philosophy Title"
+msgstr ""
+
+#: albargasy_options/financial_options.php:49
+#: albargasy_options/financial_options.php:64
+msgid "Page Background Image"
+msgstr ""
+
+#: albargasy_options/corporate_options.php:48
+msgid "philosophy Section"
+msgstr ""
+
+#: lib/albargasy_taxonomy_terms.php:15
+msgid "Popular Modules Categories"
+msgstr ""
+
+#: lib/albargasy_theme_init.php:86
+msgid "Remove featured image"
+msgstr ""
+
+#: albargasy_options/financial_options.php:107
+msgid "Sales Content"
+msgstr ""
+
+#: albargasy_options/financial_options.php:51
+msgid "Sales Section"
+msgstr ""
+
+#: albargasy_options/financial_options.php:97
+msgid "Sales Small Title"
+msgstr ""
+
+#: albargasy_options/financial_options.php:88
+msgid "Sales Title"
+msgstr ""
+
+#: albargasy_options/about_options.php:188
+#: albargasy_options/careers_options.php:89
+#: albargasy_options/corporate_options.php:393
+#: albargasy_options/financial_options.php:240
+#: albargasy_options/home_options.php:427
+#: albargasy_options/theme_options.php:244
+msgid "Save Settings"
+msgstr ""
+
+#: lib/albargasy_taxonomy_terms.php:14
+msgid "Search Modules Categories"
+msgstr ""
+
+#: albargasy_options/corporate_options.php:270
+msgid "Second Accordion Content"
+msgstr ""
+
+#: albargasy_options/corporate_options.php:262
+msgid "Second Accordion Title"
+msgstr ""
+
+#: albargasy_options/corporate_options.php:345
+msgid "Second Slider Content"
+msgstr ""
+
+#: albargasy_options/corporate_options.php:324
+msgid "Second Slider Image"
+msgstr ""
+
+#: albargasy_options/corporate_options.php:336
+msgid "Second Slider Title"
+msgstr ""
+
+#: albargasy_options/home_options.php:56
+msgid "Services Section"
+msgstr ""
+
+#: albargasy_options/home_options.php:271
+msgid "Services Title"
+msgstr ""
+
+#: lib/albargasy_theme_init.php:85
+msgid "Set featured image"
+msgstr ""
+
+#: albargasy_options/home_options.php:51
+msgid "SLider Section"
+msgstr ""
+
+#: albargasy_options/home_options.php:77
+msgid "Slides Number"
+msgstr ""
+
+#: albargasy_options/home_options.php:174
+msgid "Team Image"
+msgstr ""
+
+#: albargasy_options/home_options.php:53
+msgid "Team Section"
+msgstr ""
+
+#: albargasy_options/home_options.php:417
+msgid "The number of rewards that will appear"
+msgstr ""
+
+#: albargasy_options/corporate_options.php:278
+msgid "Third accordion Title"
+msgstr ""
+
+#: albargasy_options/corporate_options.php:380
+msgid "Third Slider Content"
+msgstr ""
+
+#: albargasy_options/corporate_options.php:359
+msgid "Third Slider Image"
+msgstr ""
+
+#: albargasy_options/corporate_options.php:371
+msgid "Third Slider Title"
+msgstr ""
+
+#: lib/albargasy_theme_init.php:87
+msgid "Use as featured image"
+msgstr ""
+
+#: albargasy_options/corporate_options.php:222
+msgid "Values Background Image"
+msgstr ""
+
+#: albargasy_options/corporate_options.php:213
+msgid "Values Content"
+msgstr ""
+
+#: albargasy_options/corporate_options.php:203
+msgid "Values Title"
+msgstr ""
+
+#: albargasy_options/home_options.php:55
+msgid "Vechile Section"
+msgstr ""
+
+#: albargasy_options/corporate_options.php:134
+msgid "Vision Background Image"
+msgstr ""
+
+#: albargasy_options/corporate_options.php:125
+msgid "Vision Content"
+msgstr ""
+
+#: albargasy_options/corporate_options.php:49
+msgid "Vision Section"
+msgstr ""
+
+#: albargasy_options/corporate_options.php:115
+msgid "Vision Title"
+msgstr ""
